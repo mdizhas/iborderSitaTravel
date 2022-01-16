@@ -1,0 +1,261 @@
+2022-01-11 20:34:00,108 - MyProject -INFO - URL is opened
+2022-01-11 20:34:00,674 - MyProject -INFO - enter username
+2022-01-11 20:34:01,076 - MyProject -INFO - enter password
+2022-01-11 20:34:04,552 - MyProject -INFO - login test passed...
+2022-01-11 20:36:49,591 - MyProject -INFO - URL is opened
+2022-01-11 20:36:49,857 - MyProject -INFO - enter username
+2022-01-11 20:36:50,074 - MyProject -INFO - enter password
+2022-01-11 20:36:52,306 - MyProject -INFO - login test passed...
+2022-01-11 20:37:53,291 - MyProject -INFO - URL is opened
+2022-01-11 20:37:53,520 - MyProject -INFO - enter username
+2022-01-11 20:37:53,712 - MyProject -INFO - enter password
+2022-01-11 20:39:33,733 - MyProject -INFO - URL is opened
+2022-01-11 20:39:33,952 - MyProject -INFO - enter username
+2022-01-11 20:39:34,228 - MyProject -INFO - enter password
+2022-01-11 20:41:00,981 - MyProject -INFO - URL is opened
+2022-01-11 20:41:01,204 - MyProject -INFO - enter username
+2022-01-11 20:41:01,459 - MyProject -INFO - enter password
+2022-01-11 20:41:04,445 - MyProject -INFO - login test passed...
+2022-01-11 20:42:38,180 - MyProject -INFO - URL is opened
+2022-01-11 20:42:38,422 - MyProject -INFO - enter username
+2022-01-11 20:42:38,683 - MyProject -INFO - enter password
+2022-01-11 20:42:40,796 - MyProject -INFO - login test passed...
+2022-01-11 20:42:40,797 - MyProject -INFO - I am happy
+2022-01-12 00:49:49,794 - MyProject -INFO - URL is opened
+2022-01-12 00:49:50,623 - MyProject -INFO - enter username
+2022-01-12 00:49:51,090 - MyProject -INFO - enter password
+2022-01-12 00:49:54,991 - MyProject -INFO - login test passed...
+2022-01-12 00:49:54,992 - MyProject -INFO - I am happy
+2022-01-12 01:24:58,838 - MyProject -INFO - URL is opened
+2022-01-12 01:25:00,487 - MyProject -INFO - enter username
+2022-01-12 01:25:00,651 - MyProject -INFO - enter password
+2022-01-12 01:25:05,331 - MyProject -INFO - login test passed...
+2022-01-12 01:25:05,332 - MyProject -INFO - I am happy
+2022-01-12 01:25:30,581 - MyProject -INFO - URL is opened
+2022-01-12 01:25:30,822 - MyProject -INFO - enter username
+2022-01-12 01:25:31,027 - MyProject -INFO - enter password
+2022-01-12 01:25:33,721 - MyProject -INFO - login test passed...
+2022-01-12 01:25:33,722 - MyProject -INFO - I am happy
+2022-01-12 01:38:06,998 - MyProject -INFO - URL is opened
+2022-01-12 01:38:08,944 - MyProject -INFO - enter username
+2022-01-12 01:38:09,399 - MyProject -INFO - enter password
+2022-01-12 01:38:12,330 - MyProject -INFO - login test passed...
+2022-01-12 01:38:12,330 - MyProject -INFO - I am happy
+2022-01-12 01:57:49,624 - MyProject -INFO - URL is opened
+2022-01-12 01:57:51,520 - MyProject -INFO - enter username
+2022-01-12 01:57:51,638 - MyProject -INFO - enter password
+2022-01-12 01:57:56,574 - MyProject -INFO - login test passed...
+2022-01-12 01:57:56,575 - MyProject -INFO - I am happy
+2022-01-12 02:49:27,888 - MyProject -INFO - URL is opened
+2022-01-12 02:49:30,399 - MyProject -INFO - enter username
+2022-01-12 02:49:30,705 - MyProject -INFO - enter password
+2022-01-12 02:49:38,145 - MyProject -INFO - login test passed...
+2022-01-12 02:49:38,147 - MyProject -INFO - I am happy
+2022-01-12 14:47:36,625 - MyProject -INFO - URL is opened
+2022-01-12 14:47:38,773 - MyProject -INFO - enter username
+2022-01-12 14:47:39,330 - MyProject -INFO - enter password
+2022-01-12 14:47:45,549 - MyProject -INFO - login test passed...
+2022-01-12 14:47:45,549 - MyProject -INFO - I am happy
+2022-01-12 14:49:14,034 - MyProject -INFO - URL is opened
+2022-01-12 14:49:15,583 - MyProject -INFO - enter username
+2022-01-12 14:49:15,732 - MyProject -INFO - enter password
+2022-01-12 14:51:26,052 - MyProject -INFO - URL is opened
+2022-01-12 14:51:26,234 - MyProject -INFO - enter username
+2022-01-12 14:51:26,451 - MyProject -INFO - enter password
+2022-01-12 14:51:29,865 - MyProject -INFO - login test failed...
+2022-01-12 14:53:37,813 - MyProject -INFO - URL is opened
+2022-01-12 14:53:38,166 - MyProject -INFO - enter username
+2022-01-12 14:53:38,290 - MyProject -INFO - enter password
+2022-01-12 14:53:41,012 - MyProject -INFO - login test failed...
+2022-01-12 16:39:55,818 - MyProject -INFO - URL is opened
+2022-01-12 16:39:57,981 - MyProject -INFO - enter username
+2022-01-12 16:39:58,139 - MyProject -INFO - enter password
+2022-01-12 16:40:05,011 - MyProject -INFO - login test failed...
+2022-01-12 16:41:54,363 - MyProject -INFO - URL is opened
+2022-01-12 16:41:56,526 - MyProject -INFO - enter username
+2022-01-12 16:41:56,722 - MyProject -INFO - enter password
+2022-01-12 17:00:11,909 - MyProject -INFO - URL is opened
+2022-01-12 17:00:15,170 - MyProject -INFO - enter username
+2022-01-12 17:00:15,289 - MyProject -INFO - enter password
+2022-01-12 17:00:22,050 - MyProject -INFO - login test failed...
+2022-01-12 17:42:46,253 - MyProject -INFO - URL is opened
+2022-01-12 17:42:47,905 - MyProject -INFO - enter username
+2022-01-12 17:42:48,399 - MyProject -INFO - enter password
+2022-01-12 17:42:55,060 - MyProject -INFO - login test failed...
+2022-01-12 18:02:01,293 - MyProject -INFO - URL is opened
+2022-01-12 18:08:03,888 - MyProject -INFO - URL is opened
+2022-01-12 18:08:04,834 - MyProject -INFO - enter username
+2022-01-12 18:08:05,296 - MyProject -INFO - enter password
+2022-01-12 18:08:09,093 - MyProject -INFO - login test failed...
+2022-01-12 18:14:56,835 - MyProject -INFO - URL is opened
+2022-01-12 18:17:25,576 - MyProject -INFO - URL is opened
+2022-01-12 18:24:59,484 - MyProject -INFO - URL is opened
+2022-01-13 01:16:22,590 - MyProject -INFO - URL is opened
+2022-01-13 01:18:12,069 - MyProject -INFO - URL is opened
+2022-01-13 01:18:12,597 - MyProject -INFO - enter username
+2022-01-13 01:18:12,736 - MyProject -INFO - enter password
+2022-01-13 01:18:15,499 - MyProject -INFO - login test failed...
+2022-01-13 01:20:07,107 - MyProject -INFO - URL is opened
+2022-01-13 01:20:07,575 - MyProject -INFO - enter username
+2022-01-13 01:20:07,728 - MyProject -INFO - enter password
+2022-01-13 01:56:04,829 - MyProject -INFO - URL is opened
+2022-01-13 03:22:55,791 - MyProject -INFO - URL is opened
+2022-01-14 16:52:32,012 - MyProject -INFO - user name provided
+2022-01-14 16:52:32,548 - MyProject -INFO - password provided
+2022-01-14 16:52:39,959 - MyProject -INFO - Login passed
+2022-01-14 19:22:56,291 - MyProject -INFO - user name provided
+2022-01-14 19:22:56,481 - MyProject -INFO - password provided
+2022-01-14 19:38:04,838 - MyProject -INFO - user name provided
+2022-01-14 19:38:05,057 - MyProject -INFO - password provided
+2022-01-14 19:38:12,858 - MyProject -INFO - Login passed
+2022-01-14 19:43:55,645 - MyProject -INFO - user name provided
+2022-01-14 19:43:56,089 - MyProject -INFO - password provided
+2022-01-14 19:44:04,492 - MyProject -INFO - Login passed
+2022-01-14 19:54:35,896 - MyProject -INFO - user name provided
+2022-01-14 19:54:36,126 - MyProject -INFO - password provided
+2022-01-14 19:54:43,769 - MyProject -INFO - Login passed
+2022-01-14 20:13:27,000 - MyProject -INFO - user name provided
+2022-01-14 20:13:27,287 - MyProject -INFO - password provided
+2022-01-14 20:13:32,195 - MyProject -INFO - Login passed
+2022-01-14 20:18:54,821 - MyProject -INFO - user name provided
+2022-01-14 20:19:32,817 - MyProject -INFO - password provided
+2022-01-14 20:20:21,587 - MyProject -INFO - Login passed
+2022-01-14 20:26:27,219 - MyProject -INFO - user name provided
+2022-01-14 20:26:27,410 - MyProject -INFO - password provided
+2022-01-14 20:26:32,659 - MyProject -INFO - Login passed
+2022-01-14 20:27:04,299 - MyProject -INFO - user name provided
+2022-01-14 20:27:04,439 - MyProject -INFO - password provided
+2022-01-14 20:27:09,565 - MyProject -INFO - Login passed
+2022-01-14 20:32:32,066 - MyProject -INFO - user name provided
+2022-01-14 20:32:49,740 - MyProject -INFO - password provided
+2022-01-14 20:32:55,833 - MyProject -INFO - Login passed
+2022-01-14 20:35:46,067 - MyProject -INFO - user name provided
+2022-01-14 20:35:46,280 - MyProject -INFO - password provided
+2022-01-14 20:35:53,442 - MyProject -INFO - Login passed
+2022-01-14 20:37:06,080 - MyProject -INFO - user name provided
+2022-01-14 20:37:06,202 - MyProject -INFO - password provided
+2022-01-14 20:37:12,304 - MyProject -INFO - Login passed
+2022-01-14 20:38:25,277 - MyProject -INFO - user name provided
+2022-01-14 20:38:25,420 - MyProject -INFO - password provided
+2022-01-14 20:38:31,418 - MyProject -INFO - Login passed
+2022-01-15 00:29:03,577 - MyProject -INFO - user name provided
+2022-01-15 00:29:03,996 - MyProject -INFO - password provided
+2022-01-15 00:29:12,004 - MyProject -INFO - Login passed
+2022-01-15 00:31:22,914 - MyProject -INFO - user name provided
+2022-01-15 00:31:23,049 - MyProject -INFO - password provided
+2022-01-15 00:31:33,009 - MyProject -INFO - Login passed
+2022-01-15 00:33:00,308 - MyProject -INFO - user name provided
+2022-01-15 00:33:00,448 - MyProject -INFO - password provided
+2022-01-15 00:33:06,813 - MyProject -INFO - Login passed
+2022-01-15 00:36:16,040 - MyProject -INFO - user name provided
+2022-01-15 00:36:16,334 - MyProject -INFO - password provided
+2022-01-15 00:36:23,227 - MyProject -INFO - Login passed
+2022-01-15 00:39:27,103 - MyProject -INFO - user name provided
+2022-01-15 00:39:27,245 - MyProject -INFO - password provided
+2022-01-15 00:39:33,916 - MyProject -INFO - Login passed
+2022-01-15 00:42:21,631 - MyProject -INFO - user name provided
+2022-01-15 00:42:21,781 - MyProject -INFO - password provided
+2022-01-15 00:43:05,119 - MyProject -INFO - Login passed
+2022-01-15 00:48:24,582 - MyProject -INFO - user name provided
+2022-01-15 00:48:24,990 - MyProject -INFO - password provided
+2022-01-15 00:48:31,168 - MyProject -INFO - Login passed
+2022-01-15 00:48:38,983 - MyProject -INFO - user name provided
+2022-01-15 00:48:39,088 - MyProject -INFO - password provided
+2022-01-15 00:48:48,047 - MyProject -INFO - user name provided
+2022-01-15 00:48:48,160 - MyProject -INFO - password provided
+2022-01-15 00:48:59,138 - MyProject -INFO - user name provided
+2022-01-15 00:48:59,253 - MyProject -INFO - password provided
+2022-01-15 00:49:05,900 - MyProject -INFO - Login passed
+2022-01-15 00:49:16,885 - MyProject -INFO - user name provided
+2022-01-15 00:49:17,179 - MyProject -INFO - password provided
+2022-01-15 00:53:30,365 - MyProject -INFO - user name provided
+2022-01-15 00:53:30,529 - MyProject -INFO - password provided
+2022-01-15 00:53:39,492 - MyProject -INFO - user name provided
+2022-01-15 00:53:39,621 - MyProject -INFO - password provided
+2022-01-15 00:53:49,960 - MyProject -INFO - user name provided
+2022-01-15 00:53:50,077 - MyProject -INFO - password provided
+2022-01-15 00:53:57,688 - MyProject -INFO - user name provided
+2022-01-15 00:53:57,809 - MyProject -INFO - password provided
+2022-01-15 00:54:17,915 - MyProject -INFO - user name provided
+2022-01-15 00:54:18,022 - MyProject -INFO - password provided
+2022-01-15 00:58:50,512 - MyProject -INFO - user name provided
+2022-01-15 00:58:50,683 - MyProject -INFO - password provided
+2022-01-15 00:59:01,165 - MyProject -INFO - user name provided
+2022-01-15 00:59:01,261 - MyProject -INFO - password provided
+2022-01-15 00:59:10,371 - MyProject -INFO - user name provided
+2022-01-15 00:59:10,710 - MyProject -INFO - password provided
+2022-01-15 00:59:18,130 - MyProject -INFO - user name provided
+2022-01-15 00:59:18,230 - MyProject -INFO - password provided
+2022-01-15 00:59:26,284 - MyProject -INFO - user name provided
+2022-01-15 00:59:26,389 - MyProject -INFO - password provided
+2022-01-15 19:22:07,303 - MyProject -INFO - user name provided
+2022-01-15 19:22:08,514 - MyProject -INFO - password provided
+2022-01-15 19:22:16,643 - MyProject -INFO - Login passed
+2022-01-15 19:22:26,310 - MyProject -INFO - user name provided
+2022-01-15 19:22:26,417 - MyProject -INFO - password provided
+2022-01-15 19:22:35,008 - MyProject -INFO - user name provided
+2022-01-15 19:22:35,112 - MyProject -INFO - password provided
+2022-01-15 19:22:42,529 - MyProject -INFO - user name provided
+2022-01-15 19:22:42,620 - MyProject -INFO - password provided
+2022-01-15 19:22:48,491 - MyProject -INFO - Login passed
+2022-01-15 19:22:56,071 - MyProject -INFO - user name provided
+2022-01-15 19:22:56,181 - MyProject -INFO - password provided
+2022-01-15 19:28:32,217 - MyProject -INFO - user name provided
+2022-01-15 19:28:32,457 - MyProject -INFO - password provided
+2022-01-15 19:28:37,131 - MyProject -INFO - Login passed
+2022-01-15 19:28:46,548 - MyProject -INFO - user name provided
+2022-01-15 19:28:46,653 - MyProject -INFO - password provided
+2022-01-15 19:28:57,640 - MyProject -INFO - user name provided
+2022-01-15 19:28:57,734 - MyProject -INFO - password provided
+2022-01-15 19:29:06,552 - MyProject -INFO - user name provided
+2022-01-15 19:29:06,650 - MyProject -INFO - password provided
+2022-01-15 19:29:11,550 - MyProject -INFO - Login passed
+2022-01-15 19:29:19,641 - MyProject -INFO - user name provided
+2022-01-15 19:29:19,739 - MyProject -INFO - password provided
+2022-01-15 20:11:47,139 - MyProject -INFO - user name provided
+2022-01-15 20:11:47,588 - MyProject -INFO - password provided
+2022-01-15 20:11:53,844 - MyProject -INFO - Login passed
+2022-01-15 20:12:01,965 - MyProject -INFO - user name provided
+2022-01-15 20:12:02,063 - MyProject -INFO - password provided
+2022-01-15 20:12:10,739 - MyProject -INFO - user name provided
+2022-01-15 20:12:10,835 - MyProject -INFO - password provided
+2022-01-15 20:12:18,322 - MyProject -INFO - user name provided
+2022-01-15 20:12:18,414 - MyProject -INFO - password provided
+2022-01-15 20:12:23,376 - MyProject -INFO - Login passed
+2022-01-15 20:12:30,642 - MyProject -INFO - user name provided
+2022-01-15 20:12:30,742 - MyProject -INFO - password provided
+2022-01-16 00:28:39,549 - MyProject -INFO - User name is provided
+2022-01-16 00:28:39,934 - MyProject -INFO - Passsword is provided
+2022-01-16 00:28:47,155 - MyProject -INFO - providing customer details....
+2022-01-16 00:37:10,073 - MyProject -INFO - User name is provided
+2022-01-16 00:37:10,804 - MyProject -INFO - Passsword is provided
+2022-01-16 00:37:16,185 - MyProject -INFO - providing customer details....
+2022-01-16 00:37:36,715 - MyProject -INFO - validation started....
+2022-01-16 00:37:36,726 - MyProject -INFO - test case failed....
+2022-01-16 00:46:53,666 - MyProject -INFO - URL is opened
+2022-01-16 00:46:55,653 - MyProject -INFO - enter username
+2022-01-16 00:46:55,810 - MyProject -INFO - enter password
+2022-01-16 00:46:58,503 - MyProject -INFO - login test passed...
+2022-01-16 00:46:58,504 - MyProject -INFO - I am happy
+2022-01-16 01:03:33,108 - MyProject -INFO - URL is opened
+2022-01-16 01:03:35,141 - MyProject -INFO - enter username
+2022-01-16 01:03:35,238 - MyProject -INFO - enter password
+2022-01-16 01:03:39,487 - MyProject -INFO - login test passed...
+2022-01-16 01:03:39,488 - MyProject -INFO - I am happy
+2022-01-16 14:29:19,594 - MyProject -INFO - URL is opened
+2022-01-16 14:29:20,372 - MyProject -INFO - enter username
+2022-01-16 14:29:20,624 - MyProject -INFO - enter password
+2022-01-16 14:29:23,986 - MyProject -INFO - login test failed...
+2022-01-16 14:35:27,804 - MyProject -INFO - URL is opened
+2022-01-16 14:35:28,079 - MyProject -INFO - enter username
+2022-01-16 14:35:28,242 - MyProject -INFO - enter password
+2022-01-16 14:35:30,112 - MyProject -INFO - login test failed...
+2022-01-16 14:47:39,398 - MyProject -INFO - URL is opened
+2022-01-16 14:47:39,708 - MyProject -INFO - enter username
+2022-01-16 14:47:39,872 - MyProject -INFO - enter password
+2022-01-16 14:57:37,048 - MyProject -INFO - URL is opened
+2022-01-16 14:57:37,370 - MyProject -INFO - enter username
+2022-01-16 14:57:37,601 - MyProject -INFO - enter password
+2022-01-16 15:11:16,402 - MyProject -INFO - URL is opened
+2022-01-16 15:11:16,638 - MyProject -INFO - enter username
+2022-01-16 15:11:17,016 - MyProject -INFO - enter password
